@@ -1,0 +1,3 @@
+Windows
+source <carpeta entorno virtual>/Scripts/activate
+. <carpeta entorno virtual>/Scripts/activate
